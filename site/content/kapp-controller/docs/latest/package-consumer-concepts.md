@@ -157,7 +157,7 @@ metadata:
   name: pkg-demo
   annotations:
     packaging.carvel.dev/downgradable: ""
-pec:
+spec:
   packageRef:
     refName: simple-app.corp.com
     versionSelection:
